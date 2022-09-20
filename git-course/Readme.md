@@ -1,5 +1,3 @@
 #	Git Course
 
-CARALHO
-
-BUCETA
+Oiê
